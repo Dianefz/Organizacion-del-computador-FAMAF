@@ -1,0 +1,7 @@
+# Archivos generados por la compilación
+*.o
+*.elf
+*.img
+*.list
+memory_map.txt
+.gdb_history
